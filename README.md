@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align='center'>
+  <h1>Hello 🌎, Caio Lucca here!</h1>
+  <p>Brazilian, 18y</p>
+  <p>Web Developer in development </p>
+  <p> :brazil: | :us: | :es: </p>
+</div>
 
 <!--
 **Luccazai/Luccazai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
