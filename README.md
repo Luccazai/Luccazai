@@ -11,13 +11,13 @@
 <div align='center'>
   <h2>Technologies :robot:</h2>
   <p align='center'>
-    <a href="https://www.w3schools.com/html/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="width: 50px; height: 50px"></a>
-    <a href="https://tailwindcss.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.javascript.com/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" style="width: 50px; height: 50px"></a>
-    <a href="https://vuejs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.php.net/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.mysql.com/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" style="width: 50px; height: 50px"></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" style="width: 50px; height: 50px"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="width: 50px; height: 50px"></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="width: 50px; height: 50px"></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" style="width: 50px; height: 50px"></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width: 50px; height: 50px"></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width: 50px; height: 50px"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" style="width: 50px; height: 50px"></a>
   </p>
 </div>
 
