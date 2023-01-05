@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>Hello 🌎, Caio Lucca here!</h1>
   <p>Brazilian, 18y</p>
-  <p>Computer Technician and Full Stack Developer. Constantly learning and improving :mortar_board:</p>
+  <p>Computer Technician and Front End Developer. Constantly learning and improving :mortar_board:</p>
   <p> :brazil: | :us: | :es: </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/caio-lucca)
@@ -16,8 +16,6 @@
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="width: 50px; height: 50px"></a>
     <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" style="width: 50px; height: 50px"></a>
     <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width: 50px; height: 50px"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" style="width: 50px; height: 50px"></a>
   </p>
 </div>
 
