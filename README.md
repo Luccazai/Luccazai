@@ -20,6 +20,6 @@
 </div>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=luccazai&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="luccazai stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccazai&theme=dark&layout=compact&count_private=true&show_icons=true&include_all_commits=true" alt="luccazai stats"/>
+  <img src="https://github-readme-stats-ten-self.vercel.app/api?username=luccazai&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="luccazai stats"/>
+  <img src="https://github-readme-stats-ten-self.vercel.app/api/top-langs/?username=luccazai&theme=dark&layout=compact&count_private=true&show_icons=true&include_all_commits=true" alt="luccazai stats"/>
 </div>
